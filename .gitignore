@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Packaging output
+build/
+dist/
+*.spec
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
